@@ -1,5 +1,5 @@
-# Aspen *"Halogem"* 👋
-#### Student Software Developer
+# Aspen | "Halogem" 👋
+*Student Software Developer*
 
 <!--
 **teenyPaws/teenyPaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
