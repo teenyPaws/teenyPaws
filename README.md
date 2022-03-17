@@ -1,4 +1,4 @@
-# Aspen | "Halogem" 👋
+# 👋 **Aspen** | "Halogem"
 *Student Software Developer*
 
 <!--
