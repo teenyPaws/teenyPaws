@@ -12,6 +12,6 @@
 - __I'm looking for help with__: improving on team-based software development skills.
 ---
 ## 💬 Socials
-- __Reach me at__: 
+- __Find me on__: 
 > https://leetcode.com/teenyPaws/
 > 
