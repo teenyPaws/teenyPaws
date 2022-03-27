@@ -13,5 +13,5 @@
 ---
 ## 💬 Socials
 - __Find me on__: 
-> https://leetcode.com/teenyPaws/
-> 
+> <a href="https://leetcode.com/teenyPaws">Leetcode</a>
+> <a href="https://gitlab.com/teenyPaws">GitLab</a>
