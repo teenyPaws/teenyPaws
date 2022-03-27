@@ -11,8 +11,15 @@
 - __I'm looking to collaborate with__: Software engineering internships within the next 4 months, working with startups within the next 1-3 years.
 - __I'm looking for help with__: improving on team-based software development skills.
 ---
+<!--
 ## 💬 Socials
 - __Find me on__: 
-> <a href="https://leetcode.com/teenyPaws">Leetcode</a>
-> 
-> <a href="https://gitlab.com/teenyPaws">GitLab</a>
+<table>
+  <tr>
+    <td><a href="https://leetcode.com/teenyPaws">Leetcode</a></td>
+    <td><a href="https://stackoverflow.com/users/18593623/aspen">Stack Overflow</a></td>
+    <td> <a href="https://gitlab.com/teenyPaws">GitLab</a></td>
+    <td><a href="https://codepen.io/teenypaws">CodePen</a></td>
+  </tr>
+</table>
+-->
