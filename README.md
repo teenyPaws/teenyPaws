@@ -2,7 +2,6 @@
   ✨ Aspen's GitHub README ✨
 -->
 # 👋 𝒜𝓈𝓅𝑒𝓃 | 𝘴𝘩𝘦/𝘵𝘩𝘦𝘺
----
 ## 🎨 About
 - __Currently working on__: new personal website, improving on algorithm designs and problem solving.
 - __Currently studying__: Data Structures & Algorithms, the C and Assembly language, refresher on Algebra and Geometry.
