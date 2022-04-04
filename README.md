@@ -1,5 +1,7 @@
 <!--
   ✨ Aspen's GitHub README ✨
+  
+  [!] If you're stalking me, piss off. :)
 -->
 ## 🎨 About
 - __Currently working on__: new personal website, improving on algorithm designs and problem solving.
