@@ -2,15 +2,14 @@
   ✨ Aspen's GitHub README ✨
 -->
 # 👋 𝒜𝓈𝓅𝑒𝓃 | 𝘴𝘩𝘦/𝘵𝘩𝘦𝘺
-###### *Software Dev*
 ---
 ## 🎨 About
-- __Currently working on__: a new website (improved than previous), improving on algorithm designs and problem solving.
+- __Currently working on__: new personal website, improving on algorithm designs and problem solving.
 - __Currently studying__: Data Structures & Algorithms, the C and Assembly language, refresher on Algebra and Geometry.
-- __I'm looking to collaborate with__: Software engineering internships within the next 4 months, working with startups within the next 1-3 years.
-- __I'm looking for help with__: improving on team-based software development skills.
----
+- __I'm looking to collaborate with__: Software engineering internships.
+
 <!--
+---
 ## 💬 Socials
 - __Find me on__: 
 <table>
