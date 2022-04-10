@@ -1,5 +1,5 @@
 ## 🦊 About <a href="https://github.com/teenyPaws">Halogem</a>
-*What I'm doing...*
+*What I'm doing or planning...*
 - __Currently working on__: new personal website, improving on algorithm designs and problem solving.
 - __Currently studying__: Data Structures & Algorithms, the C and Assembly language, refresher on Algebra and Geometry.
 - __I'm looking to collaborate with__: Software engineering internships.
