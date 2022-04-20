@@ -1,4 +1,5 @@
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
+*Welcome to my GitHub* :3
 
 ---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=teenyPaws&count_private=true&theme=tokyonight&showicons=true)]()
