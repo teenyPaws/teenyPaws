@@ -1,5 +1,4 @@
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
-*justa lil foxxo who codes~* ,,UwU,,
 
 ---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=teenyPaws&count_private=true&theme=tokyonight&showicons=true)]()
