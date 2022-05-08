@@ -26,7 +26,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 *Notices bulgey wulgey* ,,UwU,, x3 -->
 
-[ <a href="https://open.spotify.com/track/6JVeDloauyqBcxjkQeUejs?si=d3b60590baa24f6a" target="_blank"><b>Current favorite song</b></a> ]
+[ <a href="https://open.spotify.com/track/6JVeDloauyqBcxjkQeUejs?si=d3b60590baa24f6a" target="_blank"><b>Current Favorite Song</b></a> ]
 
 ![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo)
 
