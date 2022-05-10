@@ -26,6 +26,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 *Notices bulgey wulgey* ,,UwU,, x3 -->
 
+<!--
 ![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo)
 
 <table>
@@ -38,3 +39,4 @@
 		</td>
 	</tr>
 </table>
+-->
