@@ -1,9 +1,7 @@
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
+![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo)
 <table>
   <tr>
-    <td>
-      <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
-    </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=teenyPaws&count_private=true&theme=dark"/>
     </td>
