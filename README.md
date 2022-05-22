@@ -1,6 +1,4 @@
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
-please leave me alone..
-
 ![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo)
 <table>
   <tr>
