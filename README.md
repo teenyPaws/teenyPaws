@@ -1,4 +1,4 @@
-## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
+## 🦊 <a href="https://halogem.dev">Halogem</a> <!--Personal Site-->
 ![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo)
 <table>
   <tr>
