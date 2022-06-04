@@ -2,7 +2,7 @@
 
 <p float="left">
   <a href="https://github.com/teenyPaws/teenyPaws">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teenyPaws&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true&card_width=290"
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teenyPaws&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true&card_width=295"
   </a>
 
   <a href="https://github.com/teenyPaws/teenyPaws">
