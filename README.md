@@ -1,4 +1,4 @@
-## 🦊 <a href="https://halogem.dev">Halogem</a>
+## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
 
 <!--GitHub Stats Cards-->
 <p float="left">
@@ -13,10 +13,12 @@
 <img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 
 ## 👋 Hewwo~
+*just a lil foxxo who codes* :3
+
 #### About me:
-- 🌱 I’m currently learning HTML/CSS & JS
-- ⚡️ Feel free to PR my repositories, help & suggestions are welcome :D
-- 📫 How to reach me: <a href="https://halogem.dev/socials">Personal Socials</a> or <a href="https://halogem.tech/socials">Business Socials</a>
+- 🌱 I’m currently learning HTML/CSS & JS.
+- ⚡️ Feel free to PR my repositories, help & suggestions are welcome! :D
+- 📫 How to reach me: <a href="https://halogem.dev/socials">Personal Socials</a> or <a href="https://halogem.tech/socials">Business Socials</a>.
 
 <!-- links to my social media accounts -->
 [1]: https://www.github.com/teenyPaws
