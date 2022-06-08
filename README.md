@@ -12,12 +12,10 @@
 <!--Spotify Card-->
 <img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 
-## 👋 Hello~
+## 👋 Hewwo~
 #### About me:
 - 🌱 I’m currently learning HTML/CSS & JS
-- 👯‍♂️ I'm looking to collaborate 🤝
-- 📚 I'm always looking for new things to learn about
-- ⚡️ Feel free to fork & PR my repositories, help & suggestions are welcome :D
+- ⚡️ Feel free to PR my repositories, help & suggestions are welcome :D
 - 📫 How to reach me: <a href="https://halogem.dev/socials">Personal Socials</a> or <a href="https://halogem.tech/socials">Business Socials</a>
 
 <!-- links to my social media accounts -->
