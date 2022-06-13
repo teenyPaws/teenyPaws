@@ -1,6 +1,7 @@
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
 
 <!--GitHub Stats Cards-->
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teenyPaws&theme=monokai)-->
 <p float="left">
   <a href="https://github.com/teenyPaws/teenyPaws">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teenyPaws&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true&card_width=297"
@@ -30,6 +31,11 @@
   <!-- Emojis: https://emojipedia.org/emoji/ -->
   <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
   <!-- Shields: https://shields.io/ -->
+  <!--
+    GitHub Stats Cards: 
+      - https://github.com/vn7n24fzkq/github-profile-summary-cards
+      - https://github.com/anuraghazra/github-readme-stats
+  -->
 
 <!--
 ⠋⠙⠛⠋⠉⠑⠾⠿⡆⠈⠛⠋⠈⠟⠉⠁⠈⠛⠛⠋⠉⠙⢿⠁⠉⠉⠽⢿⠛⠉⠉⠉⠛⠙⣿⡿⠋⡡⠄⠀⠀⠀⠀⠀⠀⠀⠠
