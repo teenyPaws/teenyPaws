@@ -9,7 +9,7 @@ Resources
     - https://github.com/vn7n24fzkq/github-profile-summary-cards
     - https://github.com/anuraghazra/github-readme-stats
 
-⚠️ sorry to professional people for being silly, I just enjoy being myself. :3
+✨ sorry to professional people for being silly, I just enjoy being myself. :3
 -->
 
 ## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
