@@ -32,7 +32,7 @@ Resources
 
 #### About me:
 - 🌱 I’m currently learning HTML/CSS & JS.
-- 📫 How to reach me: <a href="https://halogem.dev/socials">Personal Socials</a> or <a href="https://halogem.tech/socials">Business Socials</a>.
+- 📫 How to reach me: <a href="https://halogem.dev/socials">Personal Socials</a> or <a href="https://halogem.tech/socials">Business Socials</a>. Please be nice.
 
 <!--
 ⠋⠙⠛⠋⠉⠑⠾⠿⡆⠈⠛⠋⠈⠟⠉⠁⠈⠛⠛⠋⠉⠙⢿⠁⠉⠉⠽⢿⠛⠉⠉⠉⠛⠙⣿⡿⠋⡡⠄⠀⠀⠀⠀⠀⠀⠀⠠
