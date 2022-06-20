@@ -39,12 +39,14 @@
 <!--Spotify Recents Card-->
 <img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 
-## 👋 hewo
-*just a lil foxxo who codes* :3
+## 👋 Hello
+*im just a lil foxxo who codes* :3
 
 #### About me:
 - 🌱 I’m currently learning HTML/CSS & JS.
 - 🎓 I'm working on getting into college.
+
+📧 Reach me <a href="https://halogem.dev/socials" target="_blank"><i>here</i></a>.
 
 <!-- 
 Resources
