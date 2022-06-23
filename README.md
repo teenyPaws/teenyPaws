@@ -41,9 +41,9 @@
 
 ## 👋 Hello
 *im just a lil foxxo who codes* :3
-
 #### About me:
 - 🌱 I’m currently learning HTML/CSS & JS.
+- ⌨️ I understand a little bit of C++.
 - 🎓 I'm working on getting into college.
 
 📧 Reach me <a href="https://halogem.dev/socials" target="_blank"><i>here</i></a>.
