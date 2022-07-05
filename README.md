@@ -18,7 +18,8 @@
 #### About me
 - 🌱 I’m currently learning HTML/CSS & JS.
 - ⌨️ I understand a little bit of C++.
-- 🎓 I'm working on getting into college.
+- ⚒️ Open for business on <a href="https://www.fiverr.com/lilhalogem">Fiverr</a>.
+- 🎓 A first-year student at Seattle Central.
 
 ###### 📨 Reach me <a href="https://halogem.dev/socials" target="_blank"><i>here</i></a>.
 <!-- For business inquiries, reach me at https://halogem.tech/socials -->
