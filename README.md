@@ -19,7 +19,6 @@
 - 🌱 I’m currently learning HTML/CSS & JS.
 - ⌨️ I understand a little bit of C++.
 - ⚒️ Open for business on <a href="https://www.fiverr.com/lilhalogem">Fiverr</a>. If you need a website made for you, check me out~
-- 🎓 A first-year student at Seattle Central.
 
 ###### 📨 Reach me <a href="https://halogem.dev/socials" target="_blank"><i>here</i></a>.
 <!-- For business inquiries, reach me at https://halogem.tech/socials -->
