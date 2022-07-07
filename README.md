@@ -1,4 +1,4 @@
-## 🦊 <a href="https://github.com/teenyPaws">Halogem</a>
+## 🦊 <a href="https://halogem.dev">Halogem</a>
 
 <!--GitHub Stats Cards-->
 <!--
