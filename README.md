@@ -17,7 +17,7 @@
 
 *im just a lil foxxo who codes* :3
 #### About me
-- 🌱 I’m currently learning HTML/CSS & JS.
+- 🌐 I understand HTML/CSS
 - ⌨️ I understand a little bit of C++.
 
 <!-- 
