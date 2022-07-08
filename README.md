@@ -15,12 +15,13 @@
   -->
 </p>
 
-<img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
+<img align="left" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 
 *im just a lil foxxo who codes* :3
 #### About me
-- 🌐 I understand HTML/CSS
-- ⌨️ I understand a little bit of C++.
+ 🌐 I understand HTML/CSS
+ 
+ ⌨️ I understand a little bit of C++.
 
 <!-- 
 Resources
