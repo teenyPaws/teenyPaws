@@ -19,7 +19,7 @@
 
 *im just a lil foxxo who codes* :3
 #### About me
- 🌐 I understand HTML/CSS
+ 🌐 I understand HTML/CSS.
  
  ⌨️ I understand a little bit of C++.
 
