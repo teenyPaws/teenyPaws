@@ -7,7 +7,8 @@
 - ✨ I understand HTML/CSS and a little bit of JS.
 - 🌟 I understand a bit of C++.
 - 🎓 I'm a student working towarrds my Bachelor's.
-- 🎨 I'm a hobbyist developer and I enjoy playing pc games.
+- 🎨 I'm a hobbyist developer.
+- 🕹️ I enjoy playing pc games.
 - 😸 I'm also a furry c:
  
 <!-- <p float="left">
