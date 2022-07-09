@@ -1,16 +1,11 @@
-## 🦊 <a href="https://halogem.dev">Halogem</a>
+<a href="https://halogem.dev"><img src="banner.png" style="border-radius: 10px;"></a>
 
-<tr>
-  <th><img src="banner.png"></th>
-</tr>
-
-<img align="left" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
-
-*im just a lil foxxo who codes* :3
-#### About me
- 🌐 I understand HTML/CSS.
+###### *im just a lil fluffer who codes* :3
+#### 🐈‍⬛ About me
+- ✨ I understand HTML/CSS and a little bit of JS.
+- 🌟 I understand a bit of C++.
  
- ⌨️ I understand a little bit of C++.
+ <img align="left" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
  
  <!--
  <p float="left">
