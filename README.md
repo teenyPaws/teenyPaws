@@ -6,6 +6,9 @@
 #### 🐈‍⬛ About me
 - ✨ I understand HTML/CSS and a little bit of JS.
 - 🌟 I understand a bit of C++.
+- 🎓 I'm a student working towarrds my Bachelor's.
+- 🎨 I'm a hobbyist developer and I enjoy playing pc games.
+- 😸 I'm also a furry c:
  
 <!-- <p float="left">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teenyPaws&theme=monokai)
