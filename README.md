@@ -6,11 +6,12 @@
 
 ###### *im just a lil fluffer who codes* :3
 #### 🐈‍⬛ About me
+- 😊 I'm a hobbyist developer.
+- 🎓 I'm a student working towarrds my Bachelor's.
 - ✨ I understand HTML/CSS and a little bit of JS.
 - 🌟 I understand a bit of C++.
-- 🎓 I'm a student working towarrds my Bachelor's.
-- 🎨 I'm a hobbyist developer.
 - 🕹️ I enjoy playing pc games.
+- 🎨 I enjoy drawing.
 - 😸 I'm also a furry c:
  
 <!-- <p float="left">
