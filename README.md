@@ -1,20 +1,11 @@
 <a href="https://halogem.dev"><img src="banner.png" style="border-radius: 10px;"></a>
 
+<!--
 <a href="https://open.spotify.com/user/xo4ihagg93989fq1n7pltgjzo">
  <img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 </a>
 
-###### *im just a lil fluffer who codes* :3
-#### 🐈‍⬛ About me
-- 😊 I'm a hobbyist developer.
-- 🎓 I'm a student working towarrds my Bachelor's.
-- ✨ I understand HTML/CSS and a little bit of JS.
-- 🌟 I understand a bit of C++.
-- 🕹️ I enjoy playing pc games.
-- 🎨 I enjoy drawing.
-- 😸 I'm also a furry c:
- 
-<!-- <p float="left">
+<p float="left">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teenyPaws&theme=monokai)
  
  <a href="https://github.com/teenyPaws/teenyPaws">
@@ -50,5 +41,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠻⠿⠉⠉⠉⠉⠉⠑⠋⠙⠻⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
-hewo
 -->
