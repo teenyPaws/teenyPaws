@@ -2,11 +2,15 @@
 
 <!-- i have projects ive made, theyre all just closed source. sorry -->
 
+<!--
+
 <a href="https://open.spotify.com/user/xo4ihagg93989fq1n7pltgjzo">
  <img align="left" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 </a>
 
 ###### hello there 🦔
+
+-->
 
 <!--
 <p float="right">
