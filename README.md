@@ -1,13 +1,24 @@
-<a href="https://halogem.dev"><img src="banner.png" style="border-radius: 10px;"></a>
+<a href="https://halogem.dev"><img src="banner.png"></a>
 
-<!-- i have projects ive maid, theyre all just closed source. -->
+<!-- i have projects ive made, theyre all just closed source. sorry -->
 
-<!--
 <a href="https://open.spotify.com/user/xo4ihagg93989fq1n7pltgjzo">
- <img align="right" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
+ <img align="left" alt="Spotify Recents" src="https://spotify-recently-played-readme.vercel.app/api?user=xo4ihagg93989fq1n7pltgjzo">
 </a>
 
-<p float="left">
+    ⠀⢀⣤⣶⣶⣶⣆⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣒⣒⣢⣀⠀⠀⠀⠀
+    ⢠⣿⣿⣿⣿⣍⣿⣿⡌⡆⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣟⣻⡎⠻⡧⠀⠀⠀
+    ⠀⢿⣟⣿⣿⣿⣿⠇⢹⣸⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⡇⠀⣷⠀⠀⠀
+    ⠀⠈⠻⣿⠿⠚⠋⠈⠙⠉⢀⢀⣠⣴⣄⣀⣀⠀⠈⠛⠿⣟⣀⡠⠃⠀⠀⠀
+    ⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠙⢾⣥⠀⠀⠀⠙⡆⠀⠀⠀⢀⠀⢀⠀⠀⠀⠀
+    ⠀⠀⡠⡪⢀⠔⠠⠂⠀⠀⠀⠀⠹⣷⣤⡶⠋⠁⠀⠊⠔⠡⠐⡁⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢂⣷⣯⡡⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠛⠉⠀⠀⠙⠳⡅⠀⠀⠀⠀⠀⠀⠀⠀
+
+###### hello there 🦔
+
+<!--
+<p float="right">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teenyPaws&theme=monokai)
  
  <a href="https://github.com/teenyPaws/teenyPaws">
