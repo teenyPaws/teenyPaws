@@ -1,6 +1,4 @@
-<a href="https://halogem.dev"><img src="banner.png"></a>
-
-<!-- i have projects ive made, theyre all just closed source. sorry -->
+<a href="https://youtu.be/zA3UOyr65o4"><img src="banner.png"></a>
 
 <!--
 
